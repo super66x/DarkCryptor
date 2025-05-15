@@ -1,0 +1,6 @@
+customtkinter
+cryptography
+pynput
+pyinstaller
+requests
+tkinterdnd2
